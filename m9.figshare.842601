@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    
+
+<meta name="citation_title" content="Challenges and opportunities of large-scale automated disease risk mapping">
+<meta name="citation_author" content="Nick Golding">
+<meta name="citation_doi" content="doi:10.6084/m9.figshare.842601" />
+<meta name="citation_publication_date" content="2013/11/06">
+<meta name="citation_pdf_url" content="http://files.figshare.com/1269457/NG_disease_mapping_wkshp_safe.pdf">
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+        <script type="text/javascript" src="/static/jmvc/steal/steal.production.js?main_app,63"></script>
+    
+    <meta name="google-site-verification" content="Ju_yyH64i26JR-NLuX38Uu7jpDbf7NUVANnj0u0hO4g" />
+
+    <meta name="google-site-verification" content="y9cCBrk9Sdnz8tMxxdz_CB-CC-ujc1fcOOZIH7dqCSw" />
+    <link rel="icon" type="image/png"  href="//figshare.com/static/img/favicon.png">
+    
+    <link rel="stylesheet" type="text/css" href="/static/css/articles/articles.css" />
+    <title>Challenges and opportunities of large-scale automated disease risk mapping</title>
+    <meta name="description" content="Challenges and opportunities of large-scale automated disease risk mapping"/>
+    <script type='text/javascript' src='/static/jmvc/main_app/resources/jq_grid/DataTables-1.9.0/media/js/jquery.dataTables.js'></script>
+    <link rel="stylesheet" type="text/css" href='/static/jmvc/main_app/resources/jq_grid/DataTables-1.9.0/media/css/jquery.dataTables.css' />
+    <script type='text/javascript'>
+    </script>
+    <meta name="citation_title" content="Challenges and opportunities of large-scale automated disease risk mapping">
+
+    <link rel="stylesheet" type="text/css" href="/static/css/layouts/main-layout.css?v=03"/>
+    <noscript>
+    </noscript>
+</head>
+<body>
+<div id="main-container">
+<div id="header">
+    <div class="center-layout clearfix">
+        
+        <div class="h-logo">
+            <a href="/" class="figshare-logo">
+            </a>
+        </div>
+        
+        <div class="h-search">
+            <ul>
+                
+                <div class="blank-space"></div>
+                
+                <li>
+                <form action="http://figshare.com/articles/search" method="get">
+                        <div class="search-input-wrap">
+                            <input type="text" name="q" />
+                            <span class="placeholder">search figshare (titles, tags, authors, etc.)</span>
+                        </div>
+                        <div style="display: none;">
+                            <input type="hidden" name="quick" checked="checked" value="1">
+                        </div>
+                        <input type="image" class="hs-button" src="//figshare.com/static/img/main-layout/search-button.png" />
+
+                    </form>
+                </li>
+                <!-- <li><a href="http://figshare.com/articles/browse" class="normal-link">Browse</a></li> -->
+                <li><a href="//figshare.com/articles/browse" class="normal-link">Browse</a></li>
+                <!-- <li><a href="http://figshare.com/account/upload" class="normal-link">Upload</a></li>-->
+                <li><a href="//figshare.com/account/upload" class="normal-link">Upload</a></li>
+            </ul>
+        </div>
+        <div class="h-options">
+            
+            <ul id="ho-sign-in">
+                <li>
+                    <a href="javascript: void(0)" id="user_register_but" class="styled-link-grey">Sign up</a>
+                </li>
+                <li>
+                    <a href="javascript: void(0)" id="user_login_but" class="styled-link-pink">Login</a>
+                </li>
+            </ul>
+            
+        </div>
+    </div>
+</div>
+<div class="center-layout clearfix">
+    <div id="page">
+            
+        
+        
+<div id='article_page'>
+    <p id="alldata"><span></span></p>
+    <div id="article_data">
+        <div id="article_head">
+            <div id="atitle">
+                <h1>Challenges and opportunities of large-scale automated disease risk mapping</h1>
+            </div>
+              
+                    
+                
+
+            <div class="clearme"></div>
+        </div>
+        
+        <div id="article_body">
+            <div id="body_left">
+                <div id="article_media">
+                    
+                        
+
+    <!--[if IE]>
+    <iframe class='viewer_container doc' frameBorder="0"  src="http://figshare.com/viewers/doc/1269457?pop=0&article_id=842601&hide_bar=1"
+   width="100%" style=" height: 350px;"></iframe>
+    <div class="clearme"></div>
+    <![endif]-->
+    <!--[if !IE]><!-->
+    <object type="text/html"  class="viewer_container doc"  frameborder="0" data="http://figshare.com/viewers/doc/1269457?pop=0&article_id=842601&hide_bar=1"></object>
+    <![endif]-->
+
+                    
+                            <div id="d_section">
+                    
+                            
+                                <div class="filesdownload" id='download_all'>
+                                    <a href="http://files.figshare.com/1269457/NG_disease_mapping_wkshp_safe.pdf" rel='1269457'>Download</a>
+                                </div>
+                            
+                                <div class="filesdownload" id='preview_all'>
+                                    <a href="javascript:void(0)" id='p_1269457' class='prev_lnk one-file-pop' style='padding-left: 0px; padding-right: 0px; margin-right: 14px;padding-bottom: 3px;'>Enlarge</a>
+                                </div>
+                            
+                    
+                            <div class="clearme"></div>
+                            </div>
+    <div class="fileset-description">
+        
+        <div class="fd-tooltip" id="fdt_1269457">
+            <div class="content">
+                
+            </div>
+        </div>
+        
+    </div>
+<input type="hidden" value="842601" id="js_article_id">
+<input type="hidden" value="Challenges_and_opportunities_of_large_scale_automated_disease_risk_mapping" id="js_article_url">
+<input type="hidden" value="7" id="js_article_type" />
+<a href='javascript: void(0)' id='open_pop' style='display:none;'></a>
+<input type="hidden" value="viewer_docs" id="article_ext">
+<input type="hidden" value="1" id="article_files">
+                </div>
+                <div id="article_citation">
+                    <div id="citetop"></div>
+                    <div id="allcite">
+                        <div class="citeinfo">
+                            Share this:
+                        </div>
+                        <div class="facetw">
+                            <span  class='st_facebook_hcount' displayText='Facebook' st_url='http://dx.doi.org/10.6084/m9.figshare.842601'></span>
+                            <span  class='st_twitter_hcount' displayText='Tweet' st_via='figshare' st_url='http://dx.doi.org/10.6084/m9.figshare.842601'></span>
+                            <span  class='st_plusone_hcount' st_url='http://dx.doi.org/10.6084/m9.figshare.842601'></span>
+                        </div>
+                        
+                        <a class="embed-trigger" href="javascript:void(0)">Embed<span>*</span></a>
+                        
+                        <div class="clearme"></div>
+                        <div class="citeinfo">
+                            Cite this:
+                        </div>
+                        <div id="citecontent">
+                            
+    
+        <p>
+        Golding, Nick (2013):
+        Challenges and opportunities of large-scale automated disease risk mapping.
+        fig<b>share</b>.
+        </p>
+        <a id="article-doi" class="cite-doi" href="http://dx.doi.org/10.6084/m9.figshare.842601">http://dx.doi.org/10.6084/m9.figshare.842601</a>
+        <div class="cite-retr">Retrieved  06:37, Jun 04, 2015 (GMT)</div>
+    
+
+                        </div>
+
+                        <div class="clearme"></div>
+                    </div>
+                    <div id="citebottom"></div>
+                </div>
+                <div class="embed-legal">
+                    <p class="el-initial">*The embed functionality can only be used for non commercial purposes... <a href="javascript:void(0)">more</a></p>
+                    <p class="el-more">*The embed functionality can only be used for non commercial purposes. In order to maintain its sustainability, all mass use of content by commercial or not for profit companies must be done in agreement with fig<strong>share.</strong></p>
+                </div>
+                <div class="clearme"></div>
+                <div id="article_desc">
+                    <h2>Description</h2>
+                    <div>
+                        <p>The slides for my talk at a workshop on disease mapping (with a focus on gaussian process models) at the University of Liverpool 04 - 05/11/2013.</p>
+                    </div>
+                </div>
+                <div id="article_links">
+                
+                    <h2>Links</h2>
+                        <ul>
+                            
+                                
+                                <li><a href="http://figshare.com/articles/PhD_thesis_Mapping_and_understanding_the_distributions_of_potential_vector_mosquitoes_in_the_UK_New_methods_and_applications/767289">http://figshare.com/articles/PhD_thesis_Mapping_and_understanding_the_distributions_of_potential_vector_mosquitoes_in_the_UK_New_methods_and_applications/767289</a></li>
+                                
+                            
+                                
+                                <li><a href="http://figshare.com/articles/GRaF_Fast_flexible_Bayesian_species_distribution_modelling_using_Gaussian_random_fields/775351">http://figshare.com/articles/GRaF_Fast_flexible_Bayesian_species_distribution_modelling_using_Gaussian_random_fields/775351</a></li>
+                                
+                            
+                                
+                                <li><a href="http://dx.doi.org/10.1038/nature12060">http://dx.doi.org/10.1038/nature12060</a></li>
+                                
+                            
+                                
+                                <li><a href="http://www.map.ox.ac.uk/">http://www.map.ox.ac.uk/</a></li>
+                                
+                            
+                                
+                                <li><a href="http://seeg.zoo.ox.ac.uk/">http://seeg.zoo.ox.ac.uk/</a></li>
+                                
+                            
+                                
+                                <li><a href="http://arxiv.org/abs/1302.4922">http://arxiv.org/abs/1302.4922</a></li>
+                                
+                            
+                        </ul>
+                    
+                </div>
+
+                <div id="article_comments">
+
+                    <h2>Comments (<span id="ccounter" value="">0</span>)</h2>
+                    
+                </div>
+                    
+                    <div id="dologin">
+                        <p>You must be <a href="javascript:void(0)" id="do_login_but">logged in</a> to post  comments.</p>
+                    </div>
+                    
+
+            </div>
+            <div id="body_right">
+                <div id="article_stats">
+                    <div class="ego" id="sview">
+                        <p>
+                            <span class="egonr">93</span><br/>
+                            <span class="egot">views</span>
+                        </p>
+                    </div>
+                    <div class="ego" id="sshare">
+                        <p>
+                            <span class="egonr">1</span><br/>
+                            <span class="egot">shares</span>
+                        </p>
+                    </div>
+                    <div class="ego" id="scite" style='background-imge:url()'>
+                    <img src='/static/img/articles/cites_comming.jpg' />
+                    </div>
+                    <div class="clear_me"></div>
+                </div>
+                <div id="a_stats" >
+                    <p>Published on <span>06 Nov 2013 - 13:14 (GMT)</span></p>
+                    <p>Filesize is  <span>2.20 MB</span></p>
+                    <!--<p>Downloaded <span>23 times</span></p>-->
+                </div>
+                
+                <div id="article_cat">
+                    <h2>Categories</h2>
+                    <ul class="sign">
+                    
+                        <li><a href="/articles/search?q=category%3A+Computational  Biology&quick=1">Computational  Biology</a></li>
+                    
+                        <li><a href="/articles/search?q=category%3A+Ecology&quick=1">Ecology</a></li>
+                    
+                        <li><a href="/articles/search?q=category%3A+Infectious Diseases&quick=1">Infectious Diseases</a></li>
+                    
+                    </ul>
+                </div>
+                <div id="article_auth">
+                    <h2>Authors</h2>
+                    <ul>
+                    
+                        
+                        <li><a href="/authors/Nick_Golding/443143">Nick Golding</a></li>
+                        
+                    
+                    </ul>
+                </div>
+                <div id="article_tags">
+                    <h2>Tags</h2>
+                    <div id="atags">
+                        <ul>
+                        
+                            <li><a href="/articles/search?q=tag%3A+Gaussian process&quick=1">Gaussian process</a></li>
+                        
+                            <li><a href="/articles/search?q=tag%3A+ecology&quick=1">ecology</a></li>
+                        
+                            <li><a href="/articles/search?q=tag%3A+ species distribution models&quick=1"> species distribution models</a></li>
+                        
+                        </ul>
+                    </div>
+                </div>
+                
+                <div id="article-license">
+                    <h2>License <span><a href="/licensing" href="">(what's this?)</a></span></h2>
+                    <div class="al-wrap">CC-BY</div>
+                </div>
+                
+                <div class="clear_me"></div>
+                <div id="article_export">
+                    <h2>Export</h2>
+                    <div id="aexport">
+                        <ul>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/refworks">
+                                    Export to RefWorks
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/bibtex">
+                                    Export to BibTeX
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/reference_manager">
+                                    Export to Ref. manager
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/mendeley">
+                                    Export to Mendeley
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/endnote">
+                                    Export to Endnote
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/datacite">
+                                    Export to DataCite
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/nlm">
+                                    Export to NLM
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="/articles/842601/export_citation/dc">
+                                    Export to DC
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div id="qrcode">
+                    <img src="/articles/qrcode?url=http://figshare.com/articles/Challenges_and_opportunities_of_large_scale_automated_disease_risk_mapping/842601"/>
+                </div>
+            </div>
+            <div class="clear_me"></div>
+        </div>
+        <div id="article_ver">
+        
+        </div>
+    </div>
+
+<div id="aj_preview_files" class='d_box' style='width: 950px; '>
+    <div class='box_div_contain' style=''>
+        <h2 style='border:0px; margin:0px; padding:0px;'><button class="close"><img src='/static/img/preview_close.png' /></button> </h2>
+        <div class='box_div' style='width: 100%; '>
+            <div style='padding-bottom: 0px;width: 100%;' id='display_preview'>
+            </div>
+            <div style='padding-bottom: 0px;width: 100%;margin-top: 15px; height: 30px;' id='display_download'>
+                <div id='d_lnk'>
+                    <p></p>
+                    <span> - </span>
+                    <a href=''>Download</a>
+                </div>
+            </div>
+            <div style='padding-bottom: 0px;width: 100%;position: relative;' id='display_thumbs'>
+                <table>
+                <tbody><tr>
+                </tr></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="file-citation-overlay" class="ov-box">
+   <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <h3>Cite "<span class='file_name'>Filename</span>"</h3>
+    <div class="file-cite-wrap">
+        <div id="file-cite">
+            
+    
+
+        </div>
+    </div>
+    <div class="fco-instructions">Place your mouse over the citation text to select it</div>
+</div>
+
+<div id="embed-overlay" class="ov-box">
+    <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <h3>Embed "Challenges and opportunities of large-scale automated disease risk mapping"</h3>
+    <div class="ov-content">
+        <ul class="embed-controlls">
+            <li class="embed-size">
+                <div class="ec-icon"></div>
+                <div class="ec-fields">
+                    <label>Size:</label>
+                    <div class="input-wrap">
+                        <input id="embed-width" value="568" type="text">
+                    </div> x
+                    <div class="input-wrap">
+                        <input id="embed-height" value="560" type="text">
+                    </div> pixels
+                </div>
+                <div class="ec-ratio-controll">
+                    <span class="embed-recommended">(This is the recomended size)</span>
+                    <a class="normal-link" href="javascript:void(0)">Revert to recommended size</a>
+                    <a href="javascript:void(0)" class="maintain-checkbox has-checkbox">
+                        <span class="check-box checked"></span>
+                        Maintain aspect ratio
+                    </a>
+                </div>
+            </li>
+            <li class="embed-show-filename">
+                <div class="ec-icon"></div>
+                <a href="javascript:void(0)" class="has-checkbox">
+                    <span class="check-box checked"></span>
+                    Show filename on top
+                </a>
+            </li>
+        </ul>
+        <div class="embed-code-wrap mimic-input">
+            <div id="embed-code"></div>
+        </div>
+        <div class="embed-intructs">
+            Place your mouse over the embed code to select and copy it
+        </div>
+    </div>
+</div>
+
+<input type='hidden' value='86.168.63.224' id='ip_address' />
+
+</div>
+<div id="fb-root"></div>
+<script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+
+<script type="text/javascript">
+    stLight.options({publisher:'229707e0-c139-406b-b360-7aaeca60e334',
+            onhover:false , doNotHash: true, doNotCopy: true,
+            hashAddressBar: false});
+</script>
+
+
+<input type='hidden' id='art_version' value='1' />
+
+
+<div id="claim_mess" class="ov-box">
+    <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <h1 class="overlay-title">Claim article</h1>
+    <div class="ov-content">
+        <p>You claim request was sent. I will be handled in the next 24 hours.</p>
+        <a id="claim_close" class="close normal-link" href="javascript: void(0)">Close window</a>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="push"></div>
+</div>
+<div id="main-footer">
+    <div class="f-sitemap">
+        <div class="center-layout clearfix">
+            <ul class="fs-links">
+              <li><a href="http://figshare.com/about">About</a></li>
+              <li><a href="http://figshare.com/features">Features</a></li>
+
+                <li>
+                    <a href="http://figshare.com/pricing">
+                    
+                        Pricing
+                    
+                    </a>
+                </li>
+                <li><a href="http://figshare.com/tools">Tools</a></li>
+                <li><a href="http://figshare.com/advisors">Advisors</a></li>
+                <li><a href="http://figshare.com/blog">Blog</a></li>
+                <li><a href="http://figshare.com/contact">Contact</a></li>
+                <li><a href="https://figshare.zendesk.com" target="_blank">FAQs</a></li>
+                <li><a href="http://figshare.com/privacy">Privacy Policy</a></li>
+                <li class="last"><a href="http://figshare.com/terms">Terms & Conditions</a></li>
+            </ul>
+            <ul class="fs-social">
+                <li><a class="fss-facebook" target="_blank" href="//facebook.com/FigShare"></a></li>
+                <li><a class="fss-twitter" target="_blank" href="//twitter.com/figshare"></a></li>
+                <li><a class="fss-google" target="_blank" href="//plus.google.com/107997370406416536977"></a></li>
+                <li><a class="fss-vimeo" target="_blank" href="//vimeo.com/figshare"></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="f-informations">
+        <div class="center-layout clearfix">
+            <div class="fi-figshare">fig<span class="bold">share</span>.
+                credit for <span class="bold">all</span> your research.
+            </div>
+            <ul class="fi-partners">
+                <li><a class="fip-digital" target="_blank"  href="//www.digital-science.com/"></a></li>
+                <li><a class="fip-clocks" target="_blank"  href="//www.clockss.org/clockss/Home"></a></li>
+                <li><a class="fip-datacite" target="_blank"  href="//www.datacite.org/"></a></li>
+                <li><a class="fip-cope" target="_blank" href="//publicationethics.org/"></a></li>
+                <li><a class="fip-open" target="_blank" href="//creativecommons.org/licenses/by/3.0/"></a></li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+<div id="main-overlays">
+<div id="slide-feedback">
+    <a href="javascript:void(0)" class="handle"></a>
+    <div class="sf-content">
+        <h1>Feedback</h1>
+        <p class="sfc-text normal">We appreciate all your comments, questions,
+        suggestions or gratitude.</p>
+        <div class="input-wrap">
+            <input type="text" style="width:265px;" class="feeinput" name="feename" id="feename" value="Your name (optional)" rel="Your name (optional)" />
+        </div>
+        <div class="input-wrap">
+            <input type="text" style="width:265px;" class="feeinput" name="feemail" id="feemail" value="Your email address (optional)" rel="Your email address (optional)" />
+        </div>
+        <div class="textarea-wrap">
+            <textarea name="feemes" class="feeinput" rows="11" id="feemes" rel="Your feedback...">Your feedback...</textarea>
+        </div>
+    </div>
+    <div class="sf-actions">
+        <div id="feeload">
+        </div>
+        <a id="feesubmit" class="styled-link-pink" href="javascript:void(0)">
+            Submit feedback
+        </a>
+    </div>
+</div>
+<div id="aj_login" class="ov-box">
+    <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <form action="https://figshare.com/account/login" id="master-login" method='POST'>
+        <div class="overlay-content">
+            <h1 class="overlay-title">Login</h1>
+            <div id="login_error">
+                <p>The username or password entered are wrong.</p>
+            </div>
+            <div class="overlay-inputs">
+                <label class="for-narrow">Email</label>
+                <div class="input-wrap">
+                    <input type="text" value="" id="log_email" name="lp-email" />
+                </div>
+                <label class="for-narrow">Password</label>
+                <div class="input-wrap">
+                    <input type="password" value="" id="log_pass" name="lp-pass" />
+                </div>
+                <div class="login-cta">
+                    <a href="javascript:void(0)" class="normal-link level-with-btn" id="pass_reset">
+                        Forgot password?
+                    </a>
+                    <a href="javascript:void(0)" class="normal-link level-with-btn" id="reg_trigger">
+                        Sign up
+                    </a>
+                    <div class="btn-wrapper">
+                        <button  class="styled-btn clear-btn-style" id="log_but" type="submit">
+                            Login
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div id="aj_reset_pass" class="ov-box">
+    <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <div class="overlay-content">
+        <h1 class="overlay-title">Reset password</h1>
+        <div class="overlay-inputs">
+            <div id="reset_msj">
+                <p class="reset-error"></p>
+            </div>
+            <p class="instructions normal">
+                Your password will be sent to your registered e-mail address.
+            </p>
+            <label class="for-narrow">Registered email</label>
+            <div class="input-wrap">
+                <input type="text" value="" id="reset_email"/>
+            </div>
+            <div class="reset-cta">
+                <a href="javascript: void(0)" id="reset_but" class="styled-link-pink">Reset pasword</a>
+                <a href="javascript: void(0)" id="b_to_login" class="normal-link back">Return to login</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="aj_register" class="ov-box">
+    <div class="overlay-close">
+        <a class="close" href="javascript:void(0)"></a>
+    </div>
+    <form action="https://figshare.com/account/register?" id="master-register" method='POST' autocomplete='off'>
+        <div class="overlay-extra-top">
+                <div id="orcid-top">
+                    <a href="javascript:void(0)" id="create-orcid" class="normal-link small">Create ORCID profile</a>
+                    <div class="spacer"></div>
+                    <a href="http://about.orcid.org/" target="_blank" id="display-orcid-info" class="normal-link small">What is this?</a>
+                </div>
+                <label id="orcid-label" class="for-narrow"><span id="orcid-logo"></span>Enter your <strong>ORCID</strong> ID</label>
+                <div class="input-wrap" id="orcid-input">
+                    <input type="text"  name="orcid_id" id="orcid_id" maxlength=19  value=""  />
+                    <input type="hidden" name="orcid_id_status" id="orcid_id_status" value="0" />
+                </div>
+                <div id="orcid_error"><span id="form_error"></span><span id="check_error"></span></div>
+        </div>
+
+        <div class="overlay-content">
+            <h1 class="overlay-title">Create account</h1>
+            <div class="overlay-inputs">
+                <div id="register_error" style="">
+                    <p></p>
+                </div>
+                <label class="for-narrow">First name <span>*</span></label>
+                <div class="input-wrap">
+                    <input type="text" id="first_name"  name="first_name" value=""  />
+                </div>
+                <label class="for-narrow">Last name <span>*</span></label>
+                <div class="input-wrap">
+                    <input type="text"  id="last_name" name="last_name" value="" />
+                </div>
+                <label class="for-narrow">Email <span>*</span></label>
+                <div class="input-wrap">
+                    <input type="text"  id="email" name="email" value=""/>
+                </div>
+                <label class="for-narrow">Confirm email <span>*</span></label>
+                <div class="input-wrap">
+                    <input type="text" value="" id="confirm_email" name="confirm_email" />
+                </div>
+                <label class="for-narrow">Password <span>*</span></label>
+                <div class="input-wrap">
+                    <input type="password" value="" id="password" name="password" />
+                </div>
+
+                <div class="accept-tc">
+                    <input type="checkbox" class="figshare-style" name="tc_checkbox" tab-index="6">
+                    I agree to the <a class="normal-link" href="/terms">Terms & Conditions</a> <span>*</span>
+                </div>
+
+                <div class="register-cta">
+                  <div class="btn-wrapper">
+                      <button id="pop_reg_but" class="styled-btn clear-btn-style" type="submit">Sign up</button>
+                  </div>
+                  <a href="javascript:void(0)" id="have-account" class="normal-link level-with-btn">Already have an account?</a>
+                </div>
+              </div>
+            </div>
+            <input type='hidden' name='p_token' value='4599967b4200b044187308fff9e91678c691ac8a' />
+        </form>
+    </div>
+</div>
+<a href="" style="display: none;" id="pass_reset_but"></a>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+      ga('create', 'UA-20427479-1', 'figshare.com');
+  
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+  
+</script>
+
+</body>
+</html>

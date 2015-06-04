@@ -1,0 +1,39 @@
+Aalto
+
+Aki Vehtari            Aki.Vehtari@aalto.fi                                             
+Simo.Särkkä            Simo.Sarkka@aalto.fi                          
+
+Lancaster
+
+Barry Rowlingson       b.rowlingson@lancaster.ac.uk                  
+Ben Taylor             b.taylor1@lancaster.ac.uk 
+Emanuele Giorgi        giorgi@exchange.lancs.ac.uk 
+
+Liverpool
+                   
+Peter Diggle           p.diggle@lancaster.ac.uk                      
+Michelle Stanton       michelle.stanton@liverpool.ac.uk
+Anja Terlouw           d.j.terlouw@liverpool.ac.uk           
+Mike Chipeta           michael.chipeta@liverpool.ac.uk    
+Jon Read               jonathan.read@liverpool.ac.uk        
+Sanie Sesay            S.Sesay@liverpool.ac.uk  
+Marie McIntyre         k.m.mcintyre@liverpool.ac.uk
+                                 
+Sheffield
+  
+Neil Lawrence          n.lawrence@sheffield.ac.uk         
+James Hensman          james.hensman@sheffield.ac.uk           
+John Quinn             jquinn@cit.ac.ug                                                  
+Ricardo Pacheco        acg11ra@sheffield.ac.uk        
+Alan Saul              alan.saul@sheffield.ac.uk          
+Max Zweissele          m.zwiessele@sheffield.ac.uk  
+
+Oxford
+       
+Pete Gething           peter.gething@zoo.ox.ac.uk      
+Samir Bhatt            bhattsamir@gmail.com                
+Nick Golding           nick.golding@linacre.ox.ac.uk
+
+LSHTM
+
+Rachel Pullan          Rachel.Pullan@lshtm.ac.uk
