@@ -1,0 +1,56 @@
+# Site settings
+title: "Disease Mapping Workshop"
+author:
+  name: Neil D. Lawrence
+  email: 
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/leahurst13" # the subpath of your site, e.g. /blog/
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: gpss
+
+url: http://gpss.cc # the base hostname & protocol for your site
+twitter_username: datascienceshef
+github_username:  gpschool
+facebook_page: gaussianprocesssummerschool
+
+ghub:
+  edit: true
+  repository: leahurst13
+
+conference:
+  draft: false # set to True if the programme is draft only.
+  image: 
+  hide_tentative: true
+  logo: gpss-logo.svg
+  name: Disease Mapping Workshop
+  short_name: LEAHURST
+  full_name: Disease Mapping Workshop
+  venue: John Share Jones Room
+  location: Leahurst, UK
+  dates:
+  - 2013-11-04
+  - 2013-11-05
+  chairs:
+  - type: Organizers
+    people:
+    - family: Diggle
+      given: Peter
+      institute: University of Liverpool and University of Lancaster
+      url: https://www.lancaster.ac.uk/people-profiles/peter-diggle
+    - family: Gething
+      given: Peter
+      url: https://www.medsci.ox.ac.uk/study/graduateschool/supervisors/peter-gething
+      institute: The University of Oxford
+    - family: Lawrence
+      given: Neil D.
+      institute: The University of Sheffield
+      url: http://inverseprobability.com
+analytics:
+  google:
+    tracking_id: UA-62991754-1
+# Build settings
+markdown: kramdown
